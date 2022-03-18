@@ -1,0 +1,12 @@
+{
+  "name": "poc-service-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 8080 ./demo"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
